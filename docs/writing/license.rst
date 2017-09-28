@@ -1,38 +1,38 @@
-Choosing a License
+Выбор Лицензии
 ==================
 
 .. image:: https://farm5.staticflickr.com/4228/33907149294_82d7535a6c_k_d.jpg
 
-Your source publication *needs* a license. In the US, if no license is
-specified, users have no legal right to download, modify, or distribute.
-Furthermore, people can't contribute to your code unless you tell them what
-rules to play by. Choosing a license is complicated, so here are some pointers:
+Ваш исходный продукт *нуждается* в лицензии. В США, если лицензия не указана,
+у пользователей нет законного права на скачивание, изменение или распространение.
+Кроме того, люди не могут внести свой вклад в ваш код, если вы не сообщите им,
+какими правилами руководствоваться. Выбор лицензии - запутанное дело, поэтому
+вот несколько подсказок:
 
-Open source. There are plenty of `open source licenses
-<http://opensource.org/licenses/alphabetical>`_ available to choose
-from.
+Открытый исходный код. На выбор доступно множество `лицензий с открытым исходным кодом
+<http://opensource.org/licenses/alphabetical>`_.
 
-In general, these licenses tend to fall into one of two categories:
+В целом, эти лицензии относятся к одной из двух категорий:
 
-1. licenses that focus more on the user's freedom to do with the
-   software as they please (these are the more permissive open
-   source licenses such as the MIT, BSD, & Apache).
+1. Лицензии, которые больше ориентируются на свободу пользователя в
+   использовании программного обеспечения (это более разрешительные 
+   лицензии с открытым исходным кодом, такие как MIT, BSD, & Apache).
 
-2. licenses that focus more on making sure that the code itself —
-   including any changes made to it and distributed along with it —
-   always remains free (these are the less permissive free software
-   licenses such as the GPL and LGPL).
+2. Лицензии, в которых больше внимания уделяется тому, чтобы сам код,
+   включая любые изменения, внесенные в него и распространяемые
+   вместе с ним, всегда оставался свободным (это менее разрешительные
+   лицензии на бесплатное программное обеспечение, такие как GPL и LGPL).
 
-The latter are less permissive in the sense that they don't permit
-someone to add code to the software and distribute it without also
-including the source code for their changes.
+Последние менее разрешительны в том смысле, что они не позволяют кому-то
+добавлять код в программное обеспечение и распространять его, не включая
+исходный код для изменений.
 
-To help you choose one for your project, there's a `license chooser <http://choosealicense.com/>`_,
-**use it**.
+Чтобы помочь вам выбрать вариант для своего проекта, есть `помощник в выборе лицензии <http://choosealicense.com/>`_,
+**используйте его**.
 
-**More Permissive**
+**Более Разрешительные:**
 
-- PSFL (Python Software Foundation License) -- for contributing to Python itself
+- PSFL (Python Software Foundation License) -- для работы с самим Python
 - MIT / BSD / ISC
 
   + MIT (X11)
@@ -41,7 +41,7 @@ To help you choose one for your project, there's a `license chooser <http://choo
 
 - Apache
 
-**Less Permissive:**
+**Менее разрешительные:**
 
 - LGPL
 - GPL
@@ -49,6 +49,6 @@ To help you choose one for your project, there's a `license chooser <http://choo
   + GPLv2
   + GPLv3
 
-A good overview of licenses with explanations of what one can, cannot,
-and must do using a particular software can be found at
+Хороший обзор лицензий с объяснениями того, что можно, нельзя и что надо
+делать с помощью определенного программного обеспечения, можно найти в
 `tl;drLegal <https://tldrlegal.com/>`_.
